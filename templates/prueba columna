@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../static/style.css" type="text/css">
+    <title>Document</title>
+</head>
+<body>
+<header>
+    <h1> Overwatch</h1>
+</header>
+<nav>
+    <p> estadisticas </p>
+</nav>
+<main>
+    <section>
+        <p> seccion principal</p>
+    </section>
+    <section> 
+        <article> 
+            <table border="1"> 
+                <thead>
+                    <td>Nombre</td>
+                    <td>Carrera</td>
+                    <td>Telefono</td>
+                </thead>
+                <tbody>
+                   <td>Melckycedek</td>
+                    <td>Sistemas</td>
+                    <td>4424524751</td> 
+                </tbody>
+                <tfooter>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tfooter>
+            </table>
+        </article>
+    </section>
+</main>
+<footer>
+    <p> esto va a ser el pie de pagina</p>
+</footer>
+</body>
+</html>
