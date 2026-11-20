@@ -6,7 +6,7 @@ app= Flask(__name__)
 def index():
     return(render_template("prueba columna"))
 
-@app.route('/formulario', methods =['GET', 'POST'])
+@app.route('/formulario', methods =['GET', 'POST']) 
 def registro():
     return render_template('formulario.html')
 
